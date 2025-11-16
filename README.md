@@ -86,7 +86,7 @@ assignment2/
 │   ├── c.JPG
 │   ├── ket.JPG
 │   ├── water.JPG
-│   └── ...                      # Add more templates here (10 total recommended)
+│   └── ...                      
 │
 ├── realobj.JPG                 # Test image for Task 1
 ├── IMG_4309.JPG                # Additional test images
