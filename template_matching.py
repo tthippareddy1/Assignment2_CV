@@ -9,7 +9,7 @@ from matplotlib import pyplot as plt
 import glob, os
 
 # --- read test image ---
-img = cv.imread('kri.JPG', cv.IMREAD_GRAYSCALE)
+img = cv.imread('realobj.JPG', cv.IMREAD_GRAYSCALE)
 assert img is not None, "Could not read realobj.JPG"
 img = cv.GaussianBlur(img, (3,3), 0)
 

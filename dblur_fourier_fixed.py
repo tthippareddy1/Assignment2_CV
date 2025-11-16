@@ -6,7 +6,7 @@ import cv2 as cv
 from matplotlib import pyplot as plt
 
 # ---- SETTINGS ----
-PREFERRED_NAME = "IMG_4309.JPG"   # what you intend to use
+PREFERRED_NAME = "realobj.JPG"   # what you intend to use
 SIGMA = 3.0
 KERNEL_SIZE = 19           # keep odd; ~6*sigma+1 is a good rule
 MODE = "wiener"            # "wiener" or "inverse"
